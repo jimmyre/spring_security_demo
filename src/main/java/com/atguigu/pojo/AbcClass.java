@@ -5,6 +5,6 @@ public class AbcClass {
         System.out.println("111111master");
 
         System.out.println("111111dev");
-        System.out.println("我就是我，颜色不一样的烟火");
+        System.out.println("我若说只想吕晓琳");
     }
 }
